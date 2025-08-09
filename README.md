@@ -52,4 +52,4 @@
 ---
 
 ## 📫 Контакты
-- Telegram: [@твой_ник](https://t.me/davidmadridov)
+- Telegram: [@davidmadridov](https://t.me/davidmadridov)
